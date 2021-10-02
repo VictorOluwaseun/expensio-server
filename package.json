@@ -1,0 +1,26 @@
+{
+  "name": "expensio-server",
+  "version": "1.0.0",
+  "description": "An expense tracker app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorOluwaseun/expensio-server.git"
+  },
+  "keywords": [
+    "Expense",
+    "Money",
+    "Weekly",
+    "Monthly",
+    "Daily"
+  ],
+  "author": "PlentaStudio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorOluwaseun/expensio-server/issues"
+  },
+  "homepage": "https://github.com/VictorOluwaseun/expensio-server#readme"
+}

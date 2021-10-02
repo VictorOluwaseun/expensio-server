@@ -1,0 +1,9 @@
+{
+ "id": 1,
+ "name": "Wrist watch",
+ "category": "Electronics",
+ "description": "A wrist watch",
+ "amount": 1500,
+ "currency": "NGN",
+ "plan": "weekly"
+}
